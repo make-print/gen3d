@@ -1,0 +1,6 @@
+window_title: "Creo Parametric Educational Edition"
+width: 1280
+height: 720
+frame_rate: 5
+output_url: "rtmp://your-cloud-server/app/streamkey"
+local_file: "videoStreamer.mp4"
